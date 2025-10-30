@@ -1,6 +1,6 @@
 ## Olá, sou a Dani 👋
 
-### _____________________________________________________________________________________________________________________
+### _______________________________________________________________________________________________________________
 
 Sou estudante de Sistemas de Inormação no IFCE campus Crato. 
 
@@ -9,7 +9,7 @@ Sou apaixonadaa pela tecnologia desde criança e gosto de buscar entende-la, est
 Tenho muita afinidade e experiência com redes de computadores e telecomunicações, mas aspiro à programação e acho que a mesma 
 tem um potencial enorme de mudança para nosso futuro.
 
-### _____________________________________________________________________________________________________________________
+### _______________________________________________________________________________________________________________
 ### Estatísticas GitHub 
 
  <div>
@@ -19,7 +19,7 @@ tem um potencial enorme de mudança para nosso futuro.
 </div>
 <div sty
  
-### _____________________________________________________________________________________________________________________
+### _______________________________________________________________________________________________________________
           
 ###   Contatos
 <div> 
@@ -28,7 +28,7 @@ tem um potencial enorme de mudança para nosso futuro.
    <a href = "danyellekarlos1890@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="[https://www.linkedin.com/in/daniele-carlos-02a8ba272/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
- ### _____________________________________________________________________________________________________________________
+ ### _______________________________________________________________________________________________________________
 
 ### Tecnologias e Ferramentas 
 
