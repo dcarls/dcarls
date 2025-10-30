@@ -1,6 +1,6 @@
 ## Olá, sou a Dani 👋
 
-### _______________________________________________________________________________________________________________
+### 
 
 Sou estudante de Sistemas de Inormação no IFCE campus Crato. 
 
@@ -39,6 +39,8 @@ tem um potencial enorme de mudança para nosso futuro.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40"/>
  
 
 
