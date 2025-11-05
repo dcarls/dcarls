@@ -13,9 +13,6 @@
  <div>
   <a href="https://github.com/dcarls">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=dcarls&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scarls&layout=compact&langs_count=16&theme=dracula"/>
-</div>
-<div sty
 
  
 ---
